@@ -1,0 +1,150 @@
+Date,Round,Result,BlackElo,BlackTitle,ECO,Opening,Variation,WhiteElo,WhiteTitle,ExcitementScore
+2023.10.21,1.1,1/2-1/2,2579,GM,C42,Petrov,classical attack,2600,GM,0.99
+2023.10.21,1.1,1/2-1/2,2651,GM,C11,French,Steinitz variation,2606,GM,1.47
+2023.10.21,1.1,1/2-1/2,2580,GM,B10,Caro-Kann defence,None,2576,GM,2.85
+2023.10.21,1.1,1/2-1/2,2471,IM,B22,Sicilian,Alapin's variation (2.c3),2549,GM,4.13
+2023.10.21,1.1,1/2-1/2,2513,GM,B00,King's pawn opening,None,2378,IM,8.29
+2023.10.21,1.1,1/2-1/2,2397,IM,C11,French,Burn variation,2445,GM,0.69
+2023.10.21,1.1,1/2-1/2,2476,GM,A08,Reti,King's Indian attack,2392,FM,2.02
+2023.10.21,1.1,1-0,2252,None,D43,QGD semi-Slav,None,2424,GM,162.51
+2023.10.21,1.2,0-1,2562,GM,B22,Sicilian,Alapin's variation (2.c3),2455,IM,5.98
+2023.10.21,1.2,1/2-1/2,2429,IM,A14,English,Neo-Catalan declined,2643,GM,6.65
+2023.10.21,1.2,1/2-1/2,2625,GM,D82,Gruenfeld,4.Bf4,2404,IM,0.44
+2023.10.21,1.2,1/2-1/2,2382,IM,C77,Ruy Lopez,Anderssen variation,2575,GM,2.1
+2023.10.21,1.2,0-1,2540,GM,A09,Reti,advance variation,2336,IM,163.99
+2023.10.21,1.2,1-0,2299,None,A07,Reti,"King's Indian attack, Yugoslav variation",2572,GM,320.79
+2023.10.21,1.2,0-1,2426,IM,A45,Queen's pawn game,None,2323,FM,161.49
+2023.10.21,1.2,1-0,2075,FM,A70,Benoni,classical with e4 and Nf3,2403,IM,5.51
+2023.10.21,1.3,1/2-1/2,2716,GM,A06,Reti opening,None,2716,GM,2.05
+2023.10.21,1.3,1-0,2619,GM,A29,English,"four knights, kingside fianchetto",2726,GM,11.47
+2023.10.21,1.3,1/2-1/2,2734,GM,A16,English,Anglo-Gruenfeld defense,2636,GM,1.72
+2023.10.21,1.3,1-0,2615,GM,D87,Gruenfeld,"exchange, Spassky variation",2707,GM,5.19
+2023.10.21,1.3,1/2-1/2,2653,GM,D31,QGD,"semi-Slav, Abrahams variation",2627,GM,1.5
+2023.10.21,1.3,1/2-1/2,2606,GM,C84,Ruy Lopez,closed defence,2656,GM,3.16
+2023.10.21,1.3,0-1,2658,GM,E09,Catalan,"closed, main line",2626,GM,6.69
+2023.10.21,1.3,1/2-1/2,2405,IM,C53,Giuoco Piano,None,2680,GM,30.38
+2023.10.21,1.4,1-0,2668,GM,C11,French,Burn variation,2496,GM,6.0
+2023.10.21,1.4,1-0,2470,GM,B01,Scandinavian,Pytel-Wade variation,2633,GM,161.34
+2023.10.21,1.4,1/2-1/2,2620,GM,E06,Catalan,"closed, 5.Nf3",2462,GM,0.97
+2023.10.21,1.4,1-0,2441,GM,D02,Queen's bishop game,None,2609,GM,161.71
+2023.10.21,1.4,1/2-1/2,2599,GM,D02,Queen's bishop game,None,2429,IM,1.8
+2023.10.21,1.4,1/2-1/2,2380,IM,D27,QGA,"classical, 6...a6",2584,GM,0.78
+2023.10.21,1.4,1/2-1/2,2552,GM,E46,Nimzo-Indian,4.e3 O-O,2372,IM,1.52
+2023.10.21,1.4,1-0,1997,None,D02,Queen's bishop game,None,2483,IM,5.78
+2023.10.21,1.5,1/2-1/2,2637,GM,C46,Four knights game,None,2752,GM,1.07
+2023.10.21,1.5,1/2-1/2,2717,GM,B90,Sicilian,"Najdorf, Byrne (English) attack",2585,GM,1.28
+2023.10.21,1.5,1-0,2581,GM,C65,Ruy Lopez,Berlin defence,2711,GM,5.58
+2023.10.21,1.5,0-1,2680,GM,D02,Queen's pawn game,None,2526,GM,320.47
+2023.10.21,1.5,1-0,2539,GM,E47,Nimzo-Indian,"4.e3 O-O, 5.Bd3",2676,GM,6.15
+2023.10.21,1.5,0-1,2673,GM,C84,Ruy Lopez,closed defence,2537,GM,13.43
+2023.10.21,1.5,1-0,2472,IM,C79,Ruy Lopez,Steinitz defence deferred (Russian defence),2670,GM,163.41
+2023.10.21,1.5,1/2-1/2,2669,GM,B47,Sicilian,Taimanov (Bastrikov) variation,2416,IM,2.92
+2023.10.21,1.6,1/2-1/2,2646,GM,C50,Giuoco Pianissimo,Italian four knights variation,2602,GM,1.33
+2023.10.21,1.6,1-0,2593,GM,B17,Caro-Kann,Steinitz variation,2626,GM,6.87
+2023.10.21,1.6,1/2-1/2,2554,GM,A46,Queen's pawn game,None,2552,GM,1.78
+2023.10.21,1.6,1/2-1/2,2581,GM,E06,Catalan,"closed, 5.Nf3",2530,GM,1.49
+2023.10.21,1.6,1-0,2480,IM,B66,Sicilian,"Richter-Rauzer, Rauzer attack, 7...a6",2533,GM,162.0
+2023.10.21,1.6,1/2-1/2,2562,GM,D41,QGD,"Semi-Tarrasch, 5.cd",2451,GM,0.64
+2023.10.21,1.6,1-0,2438,GM,E39,Nimzo-Indian,"classical, Pirc variation",2536,GM,77.02
+2023.10.21,1.6,1/2-1/2,2373,FM,C11,French,"Steinitz, Boleslavsky variation",2308,FM,1.54
+2023.10.21,1.7,1-0,2549,GM,D35,QGD,"exchange, positional line, 5...c6",2685,GM,4.91
+2023.10.21,1.7,0-1,2605,GM,B69,Sicilian,"Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6",2579,GM,4.87
+2023.10.21,1.7,1/2-1/2,2529,IM,B90,Sicilian,"Najdorf, Byrne (English) attack",2633,GM,3.34
+2023.10.21,1.7,1/2-1/2,2586,GM,D35,QGD,"exchange, positional line, 5...c6",2517,GM,5.09
+2023.10.21,1.7,1/2-1/2,2518,GM,E11,"Bogo-Indian defence, Gruenfeld variation",None,2574,GM,4.6
+2023.10.21,1.7,0-1,2563,GM,B51,Sicilian,"Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack",2491,IM,7.6
+2023.10.21,1.7,1/2-1/2,2525,GM,E12,Queen's Indian,Petrosian system,2536,GM,1.39
+2023.10.21,1.7,1-0,2429,IM,E01,Catalan,closed,2444,IM,7.77
+2023.10.21,1.8,1-0,2561,GM,A45,Queen's pawn game,None,2695,GM,6.09
+2023.10.21,1.8,1/2-1/2,2540,IM,C67,Ruy Lopez,"Berlin defence, open variation",2566,GM,2.22
+2023.10.21,1.8,0-1,2503,GM,E62,King's Indian,"fianchetto, Uhlmann (Szabo) variation",2494,GM,162.76
+2023.10.21,1.8,1/2-1/2,2471,IM,D35,QGD,"exchange, positional line, 5...c6",2530,GM,0.96
+2023.10.21,1.8,1/2-1/2,2515,GM,E04,Catalan,"open, 5.Nf3",2476,GM,2.63
+2023.10.21,1.8,1/2-1/2,2453,GM,D30,QGD,None,2479,GM,2.01
+2023.10.21,1.8,1/2-1/2,2472,GM,D15,QGD Slav,4.Nc3,2441,GM,2.31
+2023.10.21,1.8,1/2-1/2,2388,IM,C02,French,"advance, Paulsen attack",2434,IM,5.98
+2023.10.22,2.1,1-0,2455,IM,C55,Two knights defence (Modern bishop's opening),None,2579,GM,6.6
+2023.10.22,2.1,0-1,2606,GM,B90,Sicilian,Najdorf,2429,IM,7.38
+2023.10.22,2.1,1/2-1/2,2404,IM,A15,English opening,None,2580,GM,2.45
+2023.10.22,2.1,0-1,2549,GM,C44,Scotch gambit,Dubois-Reti defence,2382,IM,6.59
+2023.10.22,2.1,1-0,2336,IM,C42,Petrov's defence,None,2513,GM,161.14
+2023.10.22,2.1,0-1,2445,GM,A62,Benoni,fianchetto variation,2299,None,163.0
+2023.10.22,2.1,1-0,2323,FM,C44,Scotch gambit,Dubois-Reti defence,2476,GM,7.79
+2023.10.22,2.1,1/2-1/2,2424,GM,C17,French,"Winawer, advance, 5.a3",2075,FM,5.08
+2023.10.22,2.2,1/2-1/2,2600,GM,B12,Caro-Kann,advance variation,2562,GM,2.58
+2023.10.22,2.2,1/2-1/2,2643,GM,C84,Ruy Lopez,closed defence,2651,GM,6.67
+2023.10.22,2.2,1-0,2576,GM,C84,Ruy Lopez,closed defence,2625,GM,162.8
+2023.10.22,2.2,1/2-1/2,2575,GM,D38,QGD,Ragozin variation,2471,IM,1.56
+2023.10.22,2.2,1/2-1/2,2378,IM,E01,Catalan,closed,2540,GM,4.26
+2023.10.22,2.2,1/2-1/2,2572,GM,D37,QGD,4.Nf3,2397,IM,2.72
+2023.10.22,2.2,1/2-1/2,2392,FM,B41,Sicilian,"Kan, Maroczy bind (Reti variation)",2426,IM,0.81
+2023.10.22,2.2,1/2-1/2,2403,IM,C67,Ruy Lopez,"open Berlin defence, l'Hermet variation",2252,None,1.63
+2023.10.22,2.3,1-0,2496,GM,B45,Sicilian,Taimanov variation,2716,GM,320.1
+2023.10.22,2.3,0-1,2726,GM,D04,Queen's pawn game,None,2470,GM,5.07
+2023.10.22,2.3,1-0,2462,GM,E62,King's Indian,"fianchetto, Kavalek (Bronstein) variation",2734,GM,7.16
+2023.10.22,2.3,0-1,2707,GM,B90,Sicilian,Najdorf,2441,GM,162.29
+2023.10.22,2.3,1-0,2429,IM,C50,Giuoco Piano,None,2653,GM,5.01
+2023.10.22,2.3,1/2-1/2,2658,GM,A28,English,"four knights, Romanishin variation",2380,IM,1.5
+2023.10.22,2.3,1-0,2372,IM,A09,Reti opening,None,2680,GM,162.42
+2023.10.22,2.3,0-1,2628,GM,A46,Queen's pawn game,None,1997,None,161.93
+2023.10.22,2.4,1/2-1/2,2716,GM,D11,QGD Slav,3.Nf3,2668,GM,3.67
+2023.10.22,2.4,1/2-1/2,2633,GM,C80,Ruy Lopez,"open, 8...Be6",2619,GM,3.79
+2023.10.22,2.4,1/2-1/2,2636,GM,D37,QGD,4.Nf3,2620,GM,0.54
+2023.10.22,2.4,1/2-1/2,2609,GM,B52,Sicilian,"Canal-Sokolsky attack, 3...Bd7",2615,GM,1.35
+2023.10.22,2.4,1-0,2627,GM,C67,Ruy Lopez,"Berlin defence, open variation",2599,GM,6.26
+2023.10.22,2.4,1/2-1/2,2584,GM,B11,Caro-Kann,"two knights, 3...Bg4",2606,GM,2.56
+2023.10.22,2.4,1/2-1/2,2626,GM,B90,Sicilian,"Najdorf, Byrne (English) attack",2552,GM,0.31
+2023.10.22,2.4,1/2-1/2,2483,IM,D37,QGD,4.Nf3,2405,IM,1.72
+2023.10.22,2.5,1/2-1/2,2752,GM,A46,Queen's pawn game,None,2646,GM,1.13
+2023.10.22,2.5,1/2-1/2,2626,GM,E00,Queen's pawn game,None,2717,GM,2.27
+2023.10.22,2.5,1/2-1/2,2711,GM,E11,"Bogo-Indian defence, Gruenfeld variation",None,2554,GM,0.42
+2023.10.22,2.5,0-1,2547,GM,A07,Reti,King's Indian attack (Barcza system),2680,GM,7.53
+2023.10.22,2.5,1-0,2676,GM,B90,Sicilian,"Najdorf, Adams attack",2530,GM,9.93
+2023.10.22,2.5,1-0,2480,IM,B57,Sicilian,"Sozin, not Scheveningen",2673,GM,5.49
+2023.10.22,2.5,1/2-1/2,2416,IM,D37,QGD,4.Nf3,2451,GM,1.23
+2023.10.22,2.5,1-0,2438,GM,E15,Queen's Indian,Nimzovich variation (exaggerated fianchetto),2669,GM,4.43
+2023.10.22,2.6,0-1,2602,GM,C65,Ruy Lopez,Berlin defence,2637,GM,162.35
+2023.10.22,2.6,1/2-1/2,2585,GM,C42,Petrov's defence,None,2593,GM,1.15
+2023.10.22,2.6,1/2-1/2,2552,GM,B00,KP,Nimzovich defence,2581,GM,2.81
+2023.10.22,2.6,1/2-1/2,2526,GM,C80,Ruy Lopez,"open, 7.Bb3",2581,GM,1.08
+2023.10.22,2.6,1/2-1/2,2533,GM,D30,Queen's gambit declined,None,2539,GM,2.04
+2023.10.22,2.6,1/2-1/2,2537,GM,A35,English,"symmetrical, four knights system",2562,GM,0.42
+2023.10.22,2.6,0-1,2536,GM,B97,Sicilian,"Najdorf, 7...Qb6",2472,IM,5.6
+2023.10.22,2.6,1/2-1/2,2670,GM,E16,Queen's Indian,Capablanca variation,2373,FM,1.16
+2023.10.22,2.7,1/2-1/2,2695,GM,D02,Queen's pawn game,None,2549,GM,2.25
+2023.10.22,2.7,1/2-1/2,2579,GM,C78,Ruy Lopez,5.O-O,2540,IM,6.79
+2023.10.22,2.7,1/2-1/2,2494,GM,B40,Sicilian defence,None,2529,IM,1.78
+2023.10.22,2.7,0-1,2517,GM,C55,Two knights defence (Modern bishop's opening),None,2471,IM,7.24
+2023.10.22,2.7,1/2-1/2,2476,GM,E10,Queen's pawn game,None,2518,GM,5.05
+2023.10.22,2.7,1/2-1/2,2491,IM,D30,Queen's gambit declined,None,2453,GM,1.67
+2023.10.22,2.7,1/2-1/2,2441,GM,C00,French,King's Indian attack,2525,GM,2.92
+2023.10.22,2.7,1/2-1/2,2444,IM,A07,Reti,King's Indian attack (Barcza system),2388,IM,1.25
+2023.10.22,2.8,1/2-1/2,2685,GM,D37,QGD,4.Nf3,2561,GM,0.56
+2023.10.22,2.8,1/2-1/2,2566,GM,C84,Ruy Lopez,closed defence,2605,GM,2.6
+2023.10.22,2.8,0-1,2633,GM,B50,Sicilian,None,2503,GM,319.72
+2023.10.22,2.8,1-0,2530,GM,C43,Petrov,"modern attack, Symmetrical variation",2586,GM,162.88
+2023.10.22,2.8,1/2-1/2,2574,GM,A56,Benoni defence,None,2515,GM,0.38
+2023.10.22,2.8,1/2-1/2,2479,GM,C65,Ruy Lopez,Berlin defence,2563,GM,5.88
+2023.10.22,2.8,1/2-1/2,2429,IM,A15,English opening,None,2472,GM,2.79
+2023.10.22,2.8,1/2-1/2,2434,IM,D32,QGD,Tarrasch defence,2462,IM,2.73
+2023.12.02,3.1,1/2-1/2,2605,GM,E48,Nimzo-Indian,"4.e3 O-O, 5.Bd3 d5",2600,GM,0.71
+2023.12.02,3.1,1-0,2561,GM,C50,Giuoco Pianissimo,Italian four knights variation,2586,GM,7.77
+2023.12.02,3.1,1-0,2574,GM,A36,English,ultra-symmetrical variation,2471,IM,7.2
+2023.12.02,3.1,1/2-1/2,2438,GM,E49,Nimzo-Indian,"4.e3, Botvinnik system",2536,GM,0.76
+2023.12.02,3.1,1/2-1/2,2473,GM,D55,QGD,Petrosian variation,2457,GM,0.75
+2023.12.02,3.1,1/2-1/2,2593,GM,B92,Sicilian,"Najdorf, Opovcensky variation",2576,GM,0.93
+2023.12.02,3.1,1/2-1/2,2392,FM,A48,King's Indian,London system,2332,IM,0.84
+2023.12.02,3.2,0-1,2695,GM,B23,Sicilian,"closed, 2...Nc6",2468,IM,2.88
+2023.12.02,3.2,0-1,2455,IM,A45,Queen's pawn game,None,2540,IM,6.14
+2023.12.02,3.2,1/2-1/2,2476,GM,C55,Two knights defence (Modern bishop's opening),None,2429,IM,1.19
+2023.12.02,3.2,0-1,2404,IM,A49,King's Indian,fianchetto without c4,2444,GM,10.59
+2023.12.02,3.2,1-0,2441,GM,A09,Reti,advance variation,2336,IM,6.8
+2023.12.02,3.2,1-0,2299,None,D00,"Queen's pawn, Mason variation, Steinitz counter-gambit",None,2324,FM,161.17
+2023.12.02,3.2,1/2-1/2,2368,IM,E63,King's Indian,"fianchetto, Panno variation",2308,FM,3.09
+2023.12.02,3.2,1-0,2236,FM,D45,QGD semi-Slav,Stoltz variation,2380,IM,37.99
+2023.12.02,3.3,1-0,2566,GM,E68,King's Indian,"fianchetto, classical variation, 8.e4",2717,GM,161.7
+2023.12.02,3.3,0-1,2676,GM,B13,Caro-Kann,Panov-Botvinnik attack,2503,GM,4.92
+2023.12.02,3.3,1/2-1/2,2515,GM,D35,QGD,"exchange, positional line, 5...c6",2668,GM,2.11
+2023.12.02,3.3,1/2-1/2,2673,GM,D11,QGD Slav,Breyer variation,2479,GM,1.17
+2023.12.02,3.3,1-0,2472,GM,B90,Sicilian,"Najdorf, Byrne (English) attack",2669,GM,5.4
+2023.12.02,3.3,0-1,2653,GM,B40,Sicilian defence,None,2434,IM,6.76
